@@ -20,7 +20,7 @@ This project comes with everything you need to get started, including drivers an
 ## 📦 Setup Instructions
 
 1. Install **Winlator** on your Android device (check the [Winlator website](https://winlator.org/) for instructions).
-2. Download and unzip the **Plug2Drive.zip** file to your device.
+2. Download and unzip the **Plug2Drive.zip** file from releases to your device.
 3. Open **Winlator** and:
    - Create a new machine
    - Install necessary drivers (included in the ZIP)
